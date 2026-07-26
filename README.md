@@ -1,5 +1,4 @@
 ﻿# TENLENT-MATCH-AI
-# TalentMatch AI
 
 TalentMatch AI is an AI-powered Resume & Job Description Matching System that helps recruiters and job seekers evaluate candidate-job compatibility using Generative AI and semantic analysis.
 
